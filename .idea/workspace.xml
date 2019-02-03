@@ -2,294 +2,297 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ba0f6c6-1396-491c-8297-3d4f904e01e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185248.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185265.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185267.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185268.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185269.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185270.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185271.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185272.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185273.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185274.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185275.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185276.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185277.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185278.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185279.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185281.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185282.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185283.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185284.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185285.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185286.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185287.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185288.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185289.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185291.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185292.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185293.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185294.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185295.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185296.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185297.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185298.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185299.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185301.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185302.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185303.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185304.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185307.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185308.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185309.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185310.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185311.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185313.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185314.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185315.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185316.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185317.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185318.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185319.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185563.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/185564.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282151.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282190.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282252.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282325.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282386.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282418.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282419.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282420.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282421.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282422.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282423.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282424.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282425.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282426.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282427.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282428.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282429.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282430.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282441.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282502.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/282549.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/288182.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/288183.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/288184.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/288185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/288186.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/288187.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/300130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v2/312769.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/1. convergence_u-l-ehp4w0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/10. pp,550x550.u3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/101. jackson_pollock_painting_number17a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/102. t00384_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/104. large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/106. pasiphae-1943-jackson-pollock-1912-1956-american-united-states-of-ct7pgw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/107. news-graphics-2006-_629563a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/108. number-3(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/11. 170609095418-jackson-pollock-painting-auction-full-169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/110. 54.1408_ph_web-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/111. jackson%20pollock_echo%20number%2025%2c%201951_1951.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/112. jackson-pollock-painting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/113. pollock_roma_n.27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/114. jackson+pollock+%231.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/115. t03977_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/116. jackson-pollock-number-18-1950_u-l-f7u0kw0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/119. number-1-jackson-pollock-1949.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/12. 91.4046_ph_web-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/122. jackson1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/123. drip-painting-bigbang1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/124. 493-pollock-45-000347-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/125. unformed%20figure%20jackson%20pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/127. pollock-pants-michael-durst.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/128. w1siziisijiwndmynsjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/13. jackson-pollockcourtesy-of-artfoundationsclass.files_.wordpress.com_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/130. number-8-detail(1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/131. modern-abstract-jackson-pollock-painting-original-art-titled-jackson-pollock-abstract-art.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/132. man-with-knife-jackson-pollock-1940.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/133. fakes-superjumbo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/137. md20482724378.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/138. 6467ec68df4fc4d9c19bcad012b9dcdd--pollock-paintings-jackson-pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/139. number-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/141. h5_57.92_av1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/143. w1siziisijg4odyzil0swyjwiiwiy29udmvydcisii1yzxnpemugmjawmhgymdawxhuwmdnlil1d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/144. 002sf3833tropicaltrans.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/145. jackson%2bpollock%2b5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/146. img-07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/148. the-water-bull-1946-jackson-pollock-1912-1956-american-united-states-d3wfkm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/149. pp,550x550.u1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/15. hb_57.92.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/151. 688948-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/152. male-and-female-jackson-pollock-1942.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/153. pk-artwork-pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/154. w1siziisijiwmzuzosjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/155. img_9852.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/157. bracken-and-twigs-to-give-modern-art-jackson-pollock-painting-effect-hnj6ek.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/158. 81mgtyfcyfl._sy450_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/159. 6bf74eab117a80acbe6753c8851877a5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/16. d0bb6745-5cbe-4f5a-993d-4c9b25ab86b8-2060x1479.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/160. pollock-painting-luxury-jackson-pollock-watery-paths-1947-oil-on-canvas-44-9-10-of-pollock-painting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/161. b7dce7602afb8af485abbabbb2643a47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/162. the-flame-jackson-pollock-1938.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/165. w1siziisijiwmjixnyjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/167. mp,550x550,gloss,ffffff,t.3u3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/168. article-2492791-194a547c00000578-122_634x762.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/17. 170613-jackson-pollock-painting-auction-embed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/170. in%20echo%20-%20number%2025%20jackson%20pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/172. jacksonpollockjlevine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/173. landscape-with-steer-jackson-pollock-1937.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/174. stenographic-figure-by-jackson-pollock-at-the-museum-of-modern-art-dtbgkm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/175. inspired-jackson-pollock-art-for-sale-buy-original-art-online-jackson-pollock-art-for-sale.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/176. 06f9f44046b2e7ac37b4ff72533b9b11--jacksons-art-abstract-expressionism.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/177. w1siziisije1mtmzmijdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/178. pollock-painting-new-jackson-pollock-famous-paintings-google-search-of-pollock-painting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/179. mc-14947027411600451708.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/18. 1914493-djjcshgk-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/180. 5732a2504f7c8.image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/181. 1314997-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/182. w1siziisijixnjawnsjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/184. md22558272812.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/186. no-1-lavender-mist-1950_u-l-enpva0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/188. b9424bac0810564f33c9a1425ed5aa9a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/189. abstract-jackson-pollock-painting-original-art-titled-black-vs-white-framed-prints.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/19. pollock.key.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/193. jackson-pollock-painting-the-accountant-unique-17-best-images-about-111-jackson-pollock-on-pinterest-of-jackson-pollock-painting-the-accountant.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/194. maxresdefault.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/196. fa0709c49ad14f19d3814c1917020db3--pollock-paintings-jackson-pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/198. il_340x270.1651466771_7lih.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/199. jackson-pollock-painting-moon-woman-cuts-the-circle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/2. mp,550x550,matte,ffffff,t.3u3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/20. 0438a1899551a56945c238fbb37118a2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/201. no-4-1949_u-l-f5hvhz0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/202. w1siziisije1ndc3osjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/203. 636324718299753928-jackson-pollack004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/204. 2842987-iuxijfmp-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/205. 1c8446a9d0aad09393841687acd7ff81--pollock-paintings-number-.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/208. number-1-1949-1949-by-jackson-pollock-art.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/21. 50174-ucfufgdufb-1485435692.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/210. 21befdd879bf313244c63c661dba8061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/212. no-32-c-1950_u-l-f5uo0c0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/213. two-women-are-having-a-chat-with-the-backdrop-of-a-jackson-pollock-painting-in-the-metropolitan-museum-of-art-in-new-york-r21610.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/216. 01.-jackson-pollock.-number-28-1950-1950-700x453.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/219. a2a20920b92e0d7f5cfb913b7631e1d3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/22. 5a499f548ba1ff465ac6bae52604d48f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/220. pp,550x550.u3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/221. 62c4a2acfe8a48650ea3a548699aef0e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/223. 4010779-zrldoyxd-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/224. b715acbdc2a735cb617786df422388e3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/225. 3a9f63fcb0c052584637a8a06f5547e7--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/227. _inspired-by-jackson-pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/228. cb455e25e583c5e3838485c916ae36d9--pollock-paintings-abstract-oil-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/23. restricted.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/230. a6dd019718b943d8fbef88e0bd5cfb00.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/233. bbb45f466fbb5ab93bf6ae4f5e8cb3aa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/237. 11d371e3114e98d8f1845fa4a12f1474--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/238. 95b685be272e7d0261bd6f2404f94652--splatter-paint-art-pollock-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/239. 859e9626674e498d5ad2e68272cb4187--star-oil-pollock-artist.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/24. jacksonpollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/240. 1946ffc42db79c16311d16b27e778085--pollock-paintings-canvas-art-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/241. 8e2cee6b5bf50fe4e4a9c90f28dd07f5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/242. 3449d02dfca338231db0cdd5383eeca4--jackson-pollock-art-lee-krasner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/243. d24d9cfa0c21f36b1fa3e3ae4f42fd7b--pollock-artist-jackson-pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/244. 41e4d45b09c5d1dc1264a077f6e9127c--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/245. 03f1f518070138c33b0b46fc606b478c--jackson-pollock-art-kandinsky-art.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/246. 1217c3dd553846823b4afb8a07f1875e--pollock-paintings-jackson-pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/247. be1950fb58a911d0a96135c98f36f532.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/248. af7b538dc98dd3f5b8d202a0dfd8f59c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/25. 1440130_15676-pollock-1024x585.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/250. a91c995c680cd2cad79fc78be28c27f4--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/251. e20b8234935978d3030cd9ac3f59e049--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/254. ec8629acafe635a3926a8ba154ea8437.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/256. 40f2f5d0a1a42ce5e82e0c0a123109d3--pollock-artist-jackson-pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/257. aa9d3af584ab28dde64b62ce105216d8--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/258. ce16a5e224c482f592504f8a335f3f10--jackson-pollock-art-object.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/259. e543c4f3d2ab342351fe933434c23488.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/26. 777e8894790be3dec489b59af420ebad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/260. f5734dbe862b0035e033a12cb4612ca1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/262. cfe5f449a5f76d0de23f8ef16add6ae5--american-artists-art-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/263. 34b425a3b1c8d51202ddd3ed21bd6990--pollock-paintings-art-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/264. feb2b8f100a0c69bebdbe2afe50d7434.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/266. 8a929a8bc141401294a42603f95e053c--jackson-pollock-art-auction.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/267. jackson-pollock-painting-price-best-of-painting-best-pollock-painting-price-priceimages-of-jackson-pollock-painting-price.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/268. 4bc32d379a5fdf388bb0271a588e7f71--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/269. c08eb8a7f58a33704866027735b5df71.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/27. m6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/270. e5891eaeb1745979f4262adfb5e52dc5--pollock-paintings-abstract-art-paintings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/273. eefa2d533018a983bbd341ad0a41716b--pollock-paintings-jackson-pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/277. 61ab9575c61a6f6769c06dcc0aa420fb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/28. 05_pollock01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/281. 677422b3a71b6d8c20e1e40499b98dd1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/284. e1b5522b2e8d04b6fdff3f25accb6f6d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/29. 2014-02-01-pollocknumber163-thumb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/3. jackson-pollock-convergence-famous-paintings-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/32. flat,550x550,075,f.u3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/33. 81toswnbbxl._sx425_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/36. live-paint-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/37. 76.2553.141_ph_web-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/38. pollocktatemodern.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/4. 1910325-rzonkphh-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/40. 176626.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/41. f1.large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/43. 02drip_ca0.190.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/44. jackson-pollock-oil-painting-on-canvas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/45. pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/46. t03979_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/47. 03-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/48. the-she-wolf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/49. t12406_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/5. pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/50. full_fathom_five.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/51. img-15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/52. head%20jackson%20pollock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/53. pollock_inspired.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/54. image-20151209-3285-1i1zkt6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/55. ceebcc18ebd1049564bf9f3a7adf75ddd577aa18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/56. 81xcjraqvil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/57. main-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/58. blue-poles-replica-painting-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/59. morris-louis-meets-jackson-pollock-alexandra-jordankova.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/6. w1siziisiji5odczncjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/63. pp,550x550.u3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/64. lm1024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/65. dsc06164_l.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/66. 250px-jackson_pollock_number_five.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/67. jackson-pollock-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/68. 50f5b081656312b5101535e2f1c572fc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/69. jackson-pollock-108.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/7. untitled-5-jackson-pollock-inspired-vanessa-carpenter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/71. splatter-paintings-pollock-style.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/72. img_5038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/73. conversation-with-jackson-pollock-no41-george-sanen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/75. jackson-pollock-1951-woodshed-art-auctions.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/76. kapro85378-958x1024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/77. possible+jackson+pollock+painting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/79. no_1_1949.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/8. jackson-pollock-1943-mural-631.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/80. gettyimages-566448787-855x1024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/81. maxresdefault.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/82. art2-800x515.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/83. pollock_mosaic2-1024x655.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/84. 0dbd355679cc9f6629d3b23e88d5bf9f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/85. s-l300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/86. 76.2553.151_ph_web-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/87. pollock-painting-fi-750x420.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/89. 080af1fc-da69-41c0-ada8-97699a5ab044.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/9. 4147131-giornvqk-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/90. 6a00d8341c630a53ef0167615d1759970b-600wi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/91. shimmering-substance-c-1946_u-l-f4en6z0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/92. 8davrty.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/93. w1siziisijizotq3ocjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/94. tribute-to-jackson-pollock-carlos-roberto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/95. awesome-jackson-pollock-wall-paper-jackson-pollock-wallpapers-inside-jackson-pollock-artwork.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/96. jackson-pollock-detail1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/98. 3056952-xkmmxonm-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pollock_v3/99. pollock_jackson.jpg" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/demofile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/1. convergence_u-l-ehp4w0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/10. pp,550x550.u3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/101. jackson_pollock_painting_number17a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/102. t00384_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/104. large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/106. pasiphae-1943-jackson-pollock-1912-1956-american-united-states-of-ct7pgw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/107. news-graphics-2006-_629563a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/108. number-3(2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/11. 170609095418-jackson-pollock-painting-auction-full-169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/110. 54.1408_ph_web-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/111. jackson%20pollock_echo%20number%2025%2c%201951_1951.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/112. jackson-pollock-painting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/113. pollock_roma_n.27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/114. jackson+pollock+%231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/115. t03977_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/116. jackson-pollock-number-18-1950_u-l-f7u0kw0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/119. number-1-jackson-pollock-1949.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/12. 91.4046_ph_web-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/122. jackson1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/123. drip-painting-bigbang1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/124. 493-pollock-45-000347-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/125. unformed%20figure%20jackson%20pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/127. pollock-pants-michael-durst.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/128. w1siziisijiwndmynsjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/13. jackson-pollockcourtesy-of-artfoundationsclass.files_.wordpress.com_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/130. number-8-detail(1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/131. modern-abstract-jackson-pollock-painting-original-art-titled-jackson-pollock-abstract-art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/132. man-with-knife-jackson-pollock-1940.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/133. fakes-superjumbo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/137. md20482724378.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/138. 6467ec68df4fc4d9c19bcad012b9dcdd--pollock-paintings-jackson-pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/139. number-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/141. h5_57.92_av1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/143. w1siziisijg4odyzil0swyjwiiwiy29udmvydcisii1yzxnpemugmjawmhgymdawxhuwmdnlil1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/144. 002sf3833tropicaltrans.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/145. jackson%2bpollock%2b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/146. img-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/148. the-water-bull-1946-jackson-pollock-1912-1956-american-united-states-d3wfkm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/149. pp,550x550.u1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/15. hb_57.92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/151. 688948-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/152. male-and-female-jackson-pollock-1942.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/153. pk-artwork-pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/154. w1siziisijiwmzuzosjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/155. img_9852.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/157. bracken-and-twigs-to-give-modern-art-jackson-pollock-painting-effect-hnj6ek.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/158. 81mgtyfcyfl._sy450_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/159. 6bf74eab117a80acbe6753c8851877a5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/16. d0bb6745-5cbe-4f5a-993d-4c9b25ab86b8-2060x1479.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/160. pollock-painting-luxury-jackson-pollock-watery-paths-1947-oil-on-canvas-44-9-10-of-pollock-painting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/161. b7dce7602afb8af485abbabbb2643a47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/162. the-flame-jackson-pollock-1938.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/165. w1siziisijiwmjixnyjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/167. mp,550x550,gloss,ffffff,t.3u3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/168. article-2492791-194a547c00000578-122_634x762.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/17. 170613-jackson-pollock-painting-auction-embed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/170. in%20echo%20-%20number%2025%20jackson%20pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/172. jacksonpollockjlevine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/173. landscape-with-steer-jackson-pollock-1937.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/174. stenographic-figure-by-jackson-pollock-at-the-museum-of-modern-art-dtbgkm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/175. inspired-jackson-pollock-art-for-sale-buy-original-art-online-jackson-pollock-art-for-sale.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/176. 06f9f44046b2e7ac37b4ff72533b9b11--jacksons-art-abstract-expressionism.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/177. w1siziisije1mtmzmijdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/178. pollock-painting-new-jackson-pollock-famous-paintings-google-search-of-pollock-painting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/179. mc-14947027411600451708.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/18. 1914493-djjcshgk-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/180. 5732a2504f7c8.image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/181. 1314997-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/182. w1siziisijixnjawnsjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/184. md22558272812.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185265.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185267.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185268.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185273.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185274.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185275.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185276.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185277.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185278.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185279.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185281.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185283.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185286.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185287.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185291.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185294.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185296.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185297.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185298.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185299.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185301.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185303.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185313.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185316.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185563.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/185564.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/186. no-1-lavender-mist-1950_u-l-enpva0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/188. b9424bac0810564f33c9a1425ed5aa9a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/189. abstract-jackson-pollock-painting-original-art-titled-black-vs-white-framed-prints.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/19. pollock.key.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/193. jackson-pollock-painting-the-accountant-unique-17-best-images-about-111-jackson-pollock-on-pinterest-of-jackson-pollock-painting-the-accountant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/194. maxresdefault.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/196. fa0709c49ad14f19d3814c1917020db3--pollock-paintings-jackson-pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/198. il_340x270.1651466771_7lih.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/199. jackson-pollock-painting-moon-woman-cuts-the-circle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/2. mp,550x550,matte,ffffff,t.3u3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/20. 0438a1899551a56945c238fbb37118a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/201. no-4-1949_u-l-f5hvhz0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/202. w1siziisije1ndc3osjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/203. 636324718299753928-jackson-pollack004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/204. 2842987-iuxijfmp-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/205. 1c8446a9d0aad09393841687acd7ff81--pollock-paintings-number-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/208. number-1-1949-1949-by-jackson-pollock-art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/21. 50174-ucfufgdufb-1485435692.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/210. 21befdd879bf313244c63c661dba8061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/212. no-32-c-1950_u-l-f5uo0c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/213. two-women-are-having-a-chat-with-the-backdrop-of-a-jackson-pollock-painting-in-the-metropolitan-museum-of-art-in-new-york-r21610.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/216. 01.-jackson-pollock.-number-28-1950-1950-700x453.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/219. a2a20920b92e0d7f5cfb913b7631e1d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/22. 5a499f548ba1ff465ac6bae52604d48f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/220. pp,550x550.u3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/221. 62c4a2acfe8a48650ea3a548699aef0e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/223. 4010779-zrldoyxd-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/224. b715acbdc2a735cb617786df422388e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/225. 3a9f63fcb0c052584637a8a06f5547e7--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/227. _inspired-by-jackson-pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/228. cb455e25e583c5e3838485c916ae36d9--pollock-paintings-abstract-oil-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/23. restricted.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/230. a6dd019718b943d8fbef88e0bd5cfb00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/233. bbb45f466fbb5ab93bf6ae4f5e8cb3aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/237. 11d371e3114e98d8f1845fa4a12f1474--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/238. 95b685be272e7d0261bd6f2404f94652--splatter-paint-art-pollock-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/239. 859e9626674e498d5ad2e68272cb4187--star-oil-pollock-artist.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/24. jacksonpollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/240. 1946ffc42db79c16311d16b27e778085--pollock-paintings-canvas-art-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/241. 8e2cee6b5bf50fe4e4a9c90f28dd07f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/242. 3449d02dfca338231db0cdd5383eeca4--jackson-pollock-art-lee-krasner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/243. d24d9cfa0c21f36b1fa3e3ae4f42fd7b--pollock-artist-jackson-pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/244. 41e4d45b09c5d1dc1264a077f6e9127c--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/245. 03f1f518070138c33b0b46fc606b478c--jackson-pollock-art-kandinsky-art.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/246. 1217c3dd553846823b4afb8a07f1875e--pollock-paintings-jackson-pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/247. be1950fb58a911d0a96135c98f36f532.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/248. af7b538dc98dd3f5b8d202a0dfd8f59c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/25. 1440130_15676-pollock-1024x585.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/250. a91c995c680cd2cad79fc78be28c27f4--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/251. e20b8234935978d3030cd9ac3f59e049--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/254. ec8629acafe635a3926a8ba154ea8437.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/256. 40f2f5d0a1a42ce5e82e0c0a123109d3--pollock-artist-jackson-pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/257. aa9d3af584ab28dde64b62ce105216d8--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/258. ce16a5e224c482f592504f8a335f3f10--jackson-pollock-art-object.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/259. e543c4f3d2ab342351fe933434c23488.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/26. 777e8894790be3dec489b59af420ebad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/260. f5734dbe862b0035e033a12cb4612ca1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/262. cfe5f449a5f76d0de23f8ef16add6ae5--american-artists-art-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/263. 34b425a3b1c8d51202ddd3ed21bd6990--pollock-paintings-art-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/264. feb2b8f100a0c69bebdbe2afe50d7434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/266. 8a929a8bc141401294a42603f95e053c--jackson-pollock-art-auction.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/267. jackson-pollock-painting-price-best-of-painting-best-pollock-painting-price-priceimages-of-jackson-pollock-painting-price.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/268. 4bc32d379a5fdf388bb0271a588e7f71--pollock-artist-pollock-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/269. c08eb8a7f58a33704866027735b5df71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/27. m6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/270. e5891eaeb1745979f4262adfb5e52dc5--pollock-paintings-abstract-art-paintings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/273. eefa2d533018a983bbd341ad0a41716b--pollock-paintings-jackson-pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/277. 61ab9575c61a6f6769c06dcc0aa420fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/28. 05_pollock01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/281. 677422b3a71b6d8c20e1e40499b98dd1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282252.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282325.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282386.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282419.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282420.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282421.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282422.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282423.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282425.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282426.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282427.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282428.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282429.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282430.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282441.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282502.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/282549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/284. e1b5522b2e8d04b6fdff3f25accb6f6d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/288182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/288183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/288184.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/288185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/288186.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/288187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/29. 2014-02-01-pollocknumber163-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/3. jackson-pollock-convergence-famous-paintings-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/300130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/312769.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/32. flat,550x550,075,f.u3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/33. 81toswnbbxl._sx425_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/36. live-paint-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/37. 76.2553.141_ph_web-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/38. pollocktatemodern.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/4. 1910325-rzonkphh-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/40. 176626.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/41. f1.large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/43. 02drip_ca0.190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/44. jackson-pollock-oil-painting-on-canvas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/45. pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/46. t03979_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/47. 03-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/48. the-she-wolf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/49. t12406_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/5. pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/50. full_fathom_five.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/51. img-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/52. head%20jackson%20pollock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/53. pollock_inspired.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/54. image-20151209-3285-1i1zkt6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/55. ceebcc18ebd1049564bf9f3a7adf75ddd577aa18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/56. 81xcjraqvil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/57. main-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/58. blue-poles-replica-painting-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/59. morris-louis-meets-jackson-pollock-alexandra-jordankova.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/6. w1siziisiji5odczncjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/63. pp,550x550.u3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/64. lm1024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/65. dsc06164_l.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/66. 250px-jackson_pollock_number_five.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/67. jackson-pollock-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/68. 50f5b081656312b5101535e2f1c572fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/69. jackson-pollock-108.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/7. untitled-5-jackson-pollock-inspired-vanessa-carpenter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/71. splatter-paintings-pollock-style.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/72. img_5038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/73. conversation-with-jackson-pollock-no41-george-sanen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/75. jackson-pollock-1951-woodshed-art-auctions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/76. kapro85378-958x1024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/77. possible+jackson+pollock+painting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/79. no_1_1949.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/8. jackson-pollock-1943-mural-631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/80. gettyimages-566448787-855x1024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/81. maxresdefault.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/82. art2-800x515.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/83. pollock_mosaic2-1024x655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/84. 0dbd355679cc9f6629d3b23e88d5bf9f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/85. s-l300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/86. 76.2553.151_ph_web-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/87. pollock-painting-fi-750x420.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/89. 080af1fc-da69-41c0-ada8-97699a5ab044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/9. 4147131-giornvqk-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/90. 6a00d8341c630a53ef0167615d1759970b-600wi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/91. shimmering-substance-c-1946_u-l-f4en6z0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/92. 8davrty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/93. w1siziisijizotq3ocjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/94. tribute-to-jackson-pollock-carlos-roberto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/95. awesome-jackson-pollock-wall-paper-jackson-pollock-wallpapers-inside-jackson-pollock-artwork.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/96. jackson-pollock-detail1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/98. 3056952-xkmmxonm-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pollock/99. pollock_jackson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -299,12 +302,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1162">
-              <caret line="101" column="26" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+            <state relative-caret-position="-798">
+              <caret line="18" column="112" selection-start-line="18" selection-start-column="112" selection-end-line="18" selection-end-column="112" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -315,10 +318,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+            <state relative-caret-position="384">
+              <caret line="286" column="32" selection-start-line="286" selection-start-column="32" selection-end-line="286" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demofile.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -334,7 +345,14 @@
     <findStrings>
       <find>no data</find>
       <find>dirpath</find>
+      <find>epoch</find>
+      <find>config</find>
+      <find>.jpg</find>
+      <find>c_dim`</find>
+      <find>imread</find>
+      <find>cdim</find>
       <find>c_dim</find>
+      <find>batch_size</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -345,8 +363,9 @@
       <list>
         <option value="$PROJECT_DIR$/download.py" />
         <option value="$PROJECT_DIR$/download_google.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/demofile.txt" />
         <option value="$PROJECT_DIR$/model.py" />
       </list>
     </option>
@@ -372,7 +391,12 @@
             <path>
               <item name="DCGAN-tensorflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="DCGAN-tensorflow" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="checkpoint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DCGAN-tensorflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DCGAN-tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -382,7 +406,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GANGogh" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -441,13 +465,9 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
@@ -455,114 +475,39 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010598.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010597.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010596.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010595.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010594.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010592.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010591.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010589.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010587.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010580.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010572.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010571.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010569.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010557.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010551.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010536.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010530.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010521.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010518.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010557.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010551.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010536.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010530.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010521.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img_align_celeba/010518.jpg" />
     <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/1. convergence_u-l-ehp4w0.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/3. mp,550x550,matte,ffffff,t.3u3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/2. 2151748-eikvyygn-7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/4. jackson-pollock-convergence-famous-paintings-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/5. 1910325-rzonkphh-7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/7. pollock.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/8. w1siziisiji5odczncjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/10. jackson-pollock-1943-mural-631.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/9. untitled-5-jackson-pollock-inspired-vanessa-carpenter.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/11. 4147131-giornvqk-6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/97. jackson-pollock-9443818-1-402.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/96. pollock-painting-fi-750x420.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/95. conversation-with-jackson-pollock-no41-george-sanen.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/6. convergence-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/10. 6680.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/3. mp,550x550,matte,ffffff,t.3u3.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/2. 2151748-eikvyygn-7.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/4. jackson-pollock-convergence-famous-paintings-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/5. 1910325-rzonkphh-7.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/7. pollock.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/8. w1siziisiji5odczncjdlfsiccisimnvbnzlcnqilcitcmvzaxplidiwmdb4mjawmfx1mdazzsjdxq.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/10. jackson-pollock-1943-mural-631.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/9. untitled-5-jackson-pollock-inspired-vanessa-carpenter.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/11. 4147131-giornvqk-6.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/97. jackson-pollock-9443818-1-402.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/96. pollock-painting-fi-750x420.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/95. conversation-with-jackson-pollock-no41-george-sanen.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/6. convergence-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/downloads/Jackson Pollock Art/10. 6680.jpg" />
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/google_images_download/google_images_download.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3120" />
@@ -604,20 +549,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/samples/test_arange_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/test_arange_5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/test_arange_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/test_arange_99.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/test_arange_64.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_0999.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_0899.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_0298.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_0099.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_0199.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1162">
-          <caret line="101" column="26" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+        <state relative-caret-position="-798">
+          <caret line="18" column="112" selection-start-line="18" selection-start-column="112" selection-end-line="18" selection-end-column="112" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demofile.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_1298.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_1198.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_1098.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_0998.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_0898.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_0798.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_2198.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/train_00_2098.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+        <state relative-caret-position="384">
+          <caret line="286" column="32" selection-start-line="286" selection-start-column="32" selection-end-line="286" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

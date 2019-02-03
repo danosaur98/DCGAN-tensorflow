@@ -6,6 +6,8 @@ from glob import glob
 import tensorflow as tf
 import numpy as np
 from six.moves import xrange
+import cv2
+from PIL import Image
 
 from ops import *
 from utils import *
@@ -85,7 +87,7 @@ class DCGAN(object):
         self.c_dim = imread(self.data[0]).shape[-1]
       else:
         self.c_dim = 1
-      self.c_dim = 1
+      # self.c_dim = 1
       if len(self.data) < self.batch_size:
         raise Exception("[!] Entire dataset size is less than the configured batch_size")
     
@@ -201,7 +203,7 @@ class DCGAN(object):
       else:      
         self.data = glob(os.path.join(
           config.data_dir, config.dataset, self.input_fname_pattern))
-        np.random.shuffle(self.data)
+        # np.random.shuffle(self.data)
         batch_idxs = min(len(self.data), config.train_size) // config.batch_size
 
       for idx in xrange(0, int(batch_idxs)):
@@ -262,24 +264,30 @@ class DCGAN(object):
               self.y: batch_labels
           })
         else:
-          # Update D network
-          _, summary_str = self.sess.run([d_optim, self.d_sum],
-            feed_dict={ self.inputs: batch_images, self.z: batch_z })
-          self.writer.add_summary(summary_str, counter)
+          try:
+            # Update D network
+            _, summary_str = self.sess.run([d_optim, self.d_sum],
+              feed_dict={ self.inputs: batch_images, self.z: batch_z })
+            self.writer.add_summary(summary_str, counter)
 
-          # Update G network
-          _, summary_str = self.sess.run([g_optim, self.g_sum],
-            feed_dict={ self.z: batch_z })
-          self.writer.add_summary(summary_str, counter)
+            # Update G network
+            _, summary_str = self.sess.run([g_optim, self.g_sum],
+              feed_dict={ self.z: batch_z })
+            self.writer.add_summary(summary_str, counter)
 
-          # Run g_optim twice to make sure that d_loss does not go to zero (different from paper)
-          _, summary_str = self.sess.run([g_optim, self.g_sum],
-            feed_dict={ self.z: batch_z })
-          self.writer.add_summary(summary_str, counter)
-          
-          errD_fake = self.d_loss_fake.eval({ self.z: batch_z })
-          errD_real = self.d_loss_real.eval({ self.inputs: batch_images })
-          errG = self.g_loss.eval({self.z: batch_z})
+            # Run g_optim twice to make sure that d_loss does not go to zero (different from paper)
+            _, summary_str = self.sess.run([g_optim, self.g_sum],
+              feed_dict={ self.z: batch_z })
+            self.writer.add_summary(summary_str, counter)
+
+            errD_fake = self.d_loss_fake.eval({ self.z: batch_z })
+            errD_real = self.d_loss_real.eval({ self.inputs: batch_images })
+            errG = self.g_loss.eval({self.z: batch_z})
+          except:
+            print("error:", idx)
+            f = open("demofile.txt", "a")
+            f.write(str(idx)+"\n")
+            f.close()
 
         counter += 1
         print("Epoch: [%2d/%2d] [%4d/%4d] time: %4.4f, d_loss: %.8f, g_loss: %.8f" \
