@@ -203,7 +203,7 @@ class DCGAN(object):
       else:      
         self.data = glob(os.path.join(
           config.data_dir, config.dataset, self.input_fname_pattern))
-        # np.random.shuffle(self.data)
+        np.random.shuffle(self.data)
         batch_idxs = min(len(self.data), config.train_size) // config.batch_size
 
       for idx in xrange(0, int(batch_idxs)):
