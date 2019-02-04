@@ -175,22 +175,19 @@ class DCGAN(object):
       sample_labels = self.data_y[0:self.sample_num]
     else:
       sample_files = self.data[0:self.sample_num]
-      sample = []
-      for sample_file in sample_files:
-        s = get_image(sample_file,
-                    input_height=self.input_height,
-                    input_width=self.input_width,
-                    resize_height=self.output_height,
-                    resize_width=self.output_width,
-                    crop=self.crop,
-                    grayscale=self.grayscale)
-        if s[0]:
-          sample.append(s[1])
+      sample = [
+        get_image(sample_file,
+                  input_height=self.input_height,
+                  input_width=self.input_width,
+                  resize_height=self.output_height,
+                  resize_width=self.output_width,
+                  crop=self.crop,
+                  grayscale=self.grayscale) for sample_file in sample_files]
       if (self.grayscale):
         sample_inputs = np.array(sample).astype(np.float32)[:, :, :, None]
       else:
         sample_inputs = np.array(sample).astype(np.float32)
-  
+
     counter = 1
     start_time = time.time()
     could_load, checkpoint_counter = self.load(self.checkpoint_dir)
