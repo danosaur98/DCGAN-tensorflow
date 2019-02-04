@@ -1,10 +1,10 @@
 # Data
 data
-# samples
+samples
 *.zip
 logs
 test*
-
+images_256
 web/js/gen_layers.js
 
 # checkpoint
