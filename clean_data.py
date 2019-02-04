@@ -8,10 +8,10 @@ import random
 import shutil
 import numpy as np
 import PIL
-root = './images_256images'
+root = './images_256'
 
 # Set your own PATH
-PATH = os.path.normpath('C:/Users/danie/GANGogh/images_512/')
+# PATH = os.path.normpath('C:/Users/danie/GANGogh/images_512/')
 
 for subdir, dirs, files in os.walk(root):
     style = subdir[2:]
@@ -39,12 +39,14 @@ for subdir, dirs, files in os.walk(root):
                 image = np.asarray(image, dtype=np.float32) / 255
                 image = image[:, :, :3]
                 print(source)
-                scipy.misc.imsave(f, image)
-                break
+                scipy.misc.imsave(source, image)
+                raise Exception("go check")
             elif len(image.shape) == 2:
-                # stacked = np.stack((image,)*3, axis=-1)
-                # scipy.misc.imsave(f, stacked)
+                stacked = np.stack((image,)*3, axis=-1)
+                scipy.misc.imsave(source, stacked)
                 print("grayscale", image.shape)
+		print(source)
+                raise Exception("go check")
             else:
                 i += 1
         except Exception as e:
