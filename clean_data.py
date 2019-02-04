@@ -45,7 +45,7 @@ for subdir, dirs, files in os.walk(root):
                 stacked = np.stack((image,)*3, axis=-1)
                 scipy.misc.imsave(source, stacked)
                 print("grayscale", image.shape)
-		print(source)
+                print(source)
                 raise Exception("go check")
             else:
                 i += 1
