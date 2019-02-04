@@ -5,6 +5,7 @@ samples
 logs
 test*
 images_256images
+downloads
 
 web/js/gen_layers.js
 
