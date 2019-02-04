@@ -326,7 +326,7 @@ class DCGAN(object):
                     './{}/train_{:02d}_{:04d}.png'.format(config.sample_dir, epoch, idx))
               print("[Sample] d_loss: %.8f, g_loss: %.8f" % (d_loss, g_loss)) 
             except Exception as e:
-              print("one pic error!...", e)
+              print("one pic error!...", "shape was", samples.shape,e)
 
         if np.mod(counter, 500) == 2:
           self.save(config.checkpoint_dir, counter)

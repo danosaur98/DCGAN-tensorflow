@@ -25,12 +25,12 @@ for subdir, dirs, files in os.walk(root):
 
     i = 0
     for f in files:
-        source = style + '\\' + f
+        source = style + '/' + f
         # print(str(i) + source)
         try:
             image = scipy.misc.imread(source)
             # image = scipy.misc.imresize(image, (512, 512))
-            if image.shape[-1] > 3:
+            if len(image.shape) == 3 and image.shape[-1] > 3:
                 print("RGBY:", image.shape)
                 # shutil.move(source, os.path.normpath('C:/Users/danie/PycharmProjects/DCGAN-tensorflow/bad_data/' + f))
                 # image = image[...,:3]
@@ -40,13 +40,13 @@ for subdir, dirs, files in os.walk(root):
                 image = image[:, :, :3]
                 print(source)
                 scipy.misc.imsave(source, image)
-                raise Exception("go check")
+                
             elif len(image.shape) == 2:
                 stacked = np.stack((image,)*3, axis=-1)
                 scipy.misc.imsave(source, stacked)
                 print("grayscale", image.shape)
                 print(source)
-                raise Exception("go check")
+                
             else:
                 i += 1
         except Exception as e:
