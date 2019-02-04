@@ -175,14 +175,17 @@ class DCGAN(object):
       sample_labels = self.data_y[0:self.sample_num]
     else:
       sample_files = self.data[0:self.sample_num]
-      sample = [
-          get_image(sample_file,
+      sample = []
+      for sample_file in sample_files:
+        s = get_image(sample_file,
                     input_height=self.input_height,
                     input_width=self.input_width,
                     resize_height=self.output_height,
                     resize_width=self.output_width,
                     crop=self.crop,
-                    grayscale=self.grayscale) for sample_file in sample_files]
+                    grayscale=self.grayscale)
+        if s[0]:
+          sample.append(s[1])
       if (self.grayscale):
         sample_inputs = np.array(sample).astype(np.float32)[:, :, :, None]
       else:
@@ -212,14 +215,17 @@ class DCGAN(object):
           batch_labels = self.data_y[idx*config.batch_size:(idx+1)*config.batch_size]
         else:
           batch_files = self.data[idx*config.batch_size:(idx+1)*config.batch_size]
-          batch = [
-              get_image(batch_file,
+          batch = []
+          for batch_file in batch_files:
+            i = get_image(batch_file,
                         input_height=self.input_height,
                         input_width=self.input_width,
                         resize_height=self.output_height,
                         resize_width=self.output_width,
                         crop=self.crop,
-                        grayscale=self.grayscale) for batch_file in batch_files]
+                        grayscale=self.grayscale)
+            if i[0]:
+              batch.append(i[1])
           if self.grayscale:
             batch_images = np.array(batch).astype(np.float32)[:, :, :, None]
           else:

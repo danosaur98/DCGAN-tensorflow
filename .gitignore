@@ -1,9 +1,10 @@
 # Data
 data
-# samples
+samples
 *.zip
 logs
 test*
+images_256images
 
 web/js/gen_layers.js
 
