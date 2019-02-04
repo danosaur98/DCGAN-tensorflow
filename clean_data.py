@@ -6,11 +6,12 @@ import os
 import scipy.misc
 import random
 import shutil
-
+import numpy as np
+import PIL
 root = './images_256images'
 
 # Set your own PATH
-# PATH = os.path.normpath('C:/Users/danie/GANGogh/images_512/')
+PATH = os.path.normpath('C:/Users/danie/GANGogh/images_512/')
 
 for subdir, dirs, files in os.walk(root):
     style = subdir[2:]
@@ -28,11 +29,22 @@ for subdir, dirs, files in os.walk(root):
         # print(str(i) + source)
         try:
             image = scipy.misc.imread(source)
-            image = scipy.misc.imresize(image, (512, 512))
-            if len(image.shape)!=3 or image.shape[-1] != 3:
-                print("error!", str(i) + source)
-                shutil.move(source, os.path.normpath('C:/Users/danie/PycharmProjects/DCGAN-tensorflow/bad_data/' + f))
-                # scipy.misc.imsave(PATH + name + '\\' + str(i) + '.png', image)
+            # image = scipy.misc.imresize(image, (512, 512))
+            if image.shape[-1] > 3:
+                print("RGBY:", image.shape)
+                # shutil.move(source, os.path.normpath('C:/Users/danie/PycharmProjects/DCGAN-tensorflow/bad_data/' + f))
+                # image = image[...,:3]
+                image = PIL.Image.open(source)
+                image = image.convert("RGB")
+                image = np.asarray(image, dtype=np.float32) / 255
+                image = image[:, :, :3]
+                print(source)
+                scipy.misc.imsave(f, image)
+                break
+            elif len(image.shape) == 2:
+                # stacked = np.stack((image,)*3, axis=-1)
+                # scipy.misc.imsave(f, stacked)
+                print("grayscale", image.shape)
             else:
                 i += 1
         except Exception as e:
