@@ -4,7 +4,11 @@ samples
 *.zip
 logs
 test*
+
 images_256
+images_256images
+downloads
+
 web/js/gen_layers.js
 
 # checkpoint
