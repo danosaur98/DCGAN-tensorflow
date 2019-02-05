@@ -8,13 +8,15 @@ import random
 import shutil
 import numpy as np
 import PIL
-root = './images_256'
+root = './images_512images'
 
 # Set your own PATH
 # PATH = os.path.normpath('C:/Users/danie/GANGogh/images_512/')
 
 for subdir, dirs, files in os.walk(root):
     style = subdir[2:]
+    # if 'landscape' not in style:
+    #     continue
     name = style
     if len(style) < 1:
         continue
@@ -25,7 +27,7 @@ for subdir, dirs, files in os.walk(root):
 
     i = 0
     for f in files:
-        source = style + '/' + f
+        source = style + '\\' + f
         # print(str(i) + source)
         try:
             image = scipy.misc.imread(source)
