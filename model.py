@@ -438,7 +438,7 @@ class DCGAN(object):
         # project `z` and reshape
         h0 = tf.reshape(
             linear(z, self.gf_dim*16*s_h32*s_w32, 'g_h0_lin'),
-            [-1, s_h16, s_w16, self.gf_dim * 16])
+            [-1, s_h32, s_w32, self.gf_dim * 16])
         h0 = tf.nn.relu(self.g_bn0(h0, train=False))
 
         h1 = deconv2d(h0, [self.batch_size, s_h16, s_w16, self.gf_dim*8], name='g_h1')
