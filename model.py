@@ -521,9 +521,12 @@ class DCGAN(object):
 
   @property
   def model_dir(self):
-    return "{}_{}_{}_{}".format(
+    return "{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
         self.dataset_name, self.batch_size,
-        self.output_height, self.output_width)
+        self.output_height, self.input_height,
+        self.df_dim, self.gf_dim,
+        self.double_update_gen
+    )
       
   def save(self, checkpoint_dir, step):
     model_name = "DCGAN.model"
