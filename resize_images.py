@@ -9,7 +9,7 @@ import random
 
 root = './images'
 
-# Set your own PATH 
+# Set your own PATH
 PATH = os.path.normpath('C:/Users/danie/GANGogh/images_512/')
 
 for subdir, dirs, files in os.walk(root):

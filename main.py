@@ -17,6 +17,8 @@ flags.DEFINE_integer("input_height", 256, "The size of image to use (will be cen
 flags.DEFINE_integer("input_width", None, "The size of image to use (will be center cropped). If None, same value as input_height [None]")
 flags.DEFINE_integer("output_height", 256, "The size of the output images to produce [64]")
 flags.DEFINE_integer("output_width", None, "The size of the output images to produce. If None, same value as output_height [None]")
+flags.DEFINE_integer("gf_dim", 64, "Dimension of gen filters in first conv layer. [64]")
+flags.DEFINE_integer("df_dim", 64, "Dimension of discrim filters in first conv layer. [64]")
 flags.DEFINE_string("dataset", "abstract", "The name of dataset [celebA, mnist, lsun]")
 flags.DEFINE_string("input_fname_pattern", "*.png", "Glob pattern of filename of input images [*]")
 flags.DEFINE_string("checkpoint_dir", "checkpoint", "Directory name to save the checkpoints [checkpoint]")
@@ -25,6 +27,7 @@ flags.DEFINE_string("sample_dir", "samples", "Directory name to save the image s
 flags.DEFINE_boolean("train", False, "True for training, False for testing [False]")
 flags.DEFINE_boolean("crop", False, "True for training, False for testing [False]")
 flags.DEFINE_boolean("visualize", False, "True for visualizing, False for nothing [False]")
+flags.DEFINE_boolean("double_update_gen", True, "True if generator should update twice for each discriminator update [True")
 flags.DEFINE_integer("generate_test_images", 100, "Number of images to generate during test. [100]")
 FLAGS = flags.FLAGS
 
@@ -62,7 +65,10 @@ def main(_):
           crop=FLAGS.crop,
           checkpoint_dir=FLAGS.checkpoint_dir,
           sample_dir=FLAGS.sample_dir,
-          data_dir=FLAGS.data_dir)
+          data_dir=FLAGS.data_dir,
+          df_dim=FLAGS.df_dim,
+          gf_dim = FLAGS.df_dim,
+          double_update_gen=FLAGS.double_update_gen)
     else:
       dcgan = DCGAN(
           sess,
