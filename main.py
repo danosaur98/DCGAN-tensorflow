@@ -67,25 +67,32 @@ def main(_):
           sample_dir=FLAGS.sample_dir,
           data_dir=FLAGS.data_dir,
           df_dim=FLAGS.df_dim,
-          gf_dim = FLAGS.df_dim,
+          gf_dim = FLAGS.gf_dim,
           double_update_gen=FLAGS.double_update_gen)
     else:
-      dcgan = DCGAN(
-          sess,
-          input_width=FLAGS.input_width,
-          input_height=FLAGS.input_height,
-          output_width=FLAGS.output_width,
-          output_height=FLAGS.output_height,
-          batch_size=FLAGS.batch_size,
-          sample_num=FLAGS.batch_size,
-          z_dim=FLAGS.generate_test_images,
-          dataset_name=FLAGS.dataset,
-          input_fname_pattern=FLAGS.input_fname_pattern,
-          crop=FLAGS.crop,
-          checkpoint_dir=FLAGS.checkpoint_dir,
-          sample_dir=FLAGS.sample_dir,
-          data_dir=FLAGS.data_dir)
-
+        sample_dir="{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
+            FLAGS.dataset, FLAGS.batch_size,
+            FLAGS.output_height, FLAGS.input_height,
+            FLAGS.df_dim, FLAGS.gf_dim,
+            FLAGS.double_update_gen)
+        dcgan = DCGAN(
+              sess,
+              input_width=FLAGS.input_width,
+              input_height=FLAGS.input_height,
+              output_width=FLAGS.output_width,
+              output_height=FLAGS.output_height,
+              batch_size=FLAGS.batch_size,
+              sample_num=FLAGS.batch_size,
+              z_dim=FLAGS.generate_test_images,
+              dataset_name=FLAGS.dataset,
+              input_fname_pattern=FLAGS.input_fname_pattern,
+              crop=FLAGS.crop,
+              checkpoint_dir=FLAGS.checkpoint_dir,
+              sample_dir= sample_dir,#FLAGS.sample_dir,
+              data_dir=FLAGS.data_dir,
+              df_dim=FLAGS.df_dim,
+              gf_dim = FLAGS.gf_dim,
+              double_update_gen=FLAGS.double_update_gen)
     show_all_variables()
 
     if FLAGS.train:
