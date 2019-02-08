@@ -70,7 +70,7 @@ def main(_):
           gf_dim = FLAGS.gf_dim,
           double_update_gen=FLAGS.double_update_gen)
     else:
-        sample_dir="./samples/{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
+        sample_dir="samples/{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
             FLAGS.dataset, FLAGS.batch_size,
             FLAGS.output_height, FLAGS.input_height,
             FLAGS.df_dim, FLAGS.gf_dim,

@@ -321,8 +321,15 @@ class DCGAN(object):
                     self.inputs: sample_inputs,
                 },
               )
+              sample_dir= "{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
+                self.dataset_name, self.batch_size,
+                self.output_height, self.input_height,
+                self.df_dim, self.gf_dim,
+                self.double_update_gen
+              )
               save_images(samples, image_manifold_size(samples.shape[0]),
-                    './{}/train_{:02d}_{:04d}.png'.format(config.sample_dir, epoch, idx))
+                    './{}/train_{:02d}_{:04d}.png'.format(sample_dir,#config.sample_dir
+                                                           epoch, idx))
               print("[Sample] d_loss: %.8f, g_loss: %.8f" % (d_loss, g_loss)) 
             except Exception as e:
               print("one pic error!...", "shape was", samples.shape,e)
