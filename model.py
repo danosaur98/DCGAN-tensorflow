@@ -321,12 +321,14 @@ class DCGAN(object):
                     self.inputs: sample_inputs,
                 },
               )
-              sample_dir= "{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
+              sample_dir= "samples/{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
                 self.dataset_name, self.batch_size,
                 self.output_height, self.input_height,
                 self.df_dim, self.gf_dim,
                 self.double_update_gen
               )
+              if not os.path.exists(sample_dir):
+                os.makedirs(sample_dir)
               save_images(samples, image_manifold_size(samples.shape[0]),
                     './{}/train_{:02d}_{:04d}.png'.format(sample_dir,#config.sample_dir
                                                            epoch, idx))
