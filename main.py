@@ -24,6 +24,7 @@ flags.DEFINE_string("input_fname_pattern", "*.png", "Glob pattern of filename of
 flags.DEFINE_string("checkpoint_dir", "checkpoint", "Directory name to save the checkpoints [checkpoint]")
 flags.DEFINE_string("data_dir", "./images_256", "Root directory of dataset [data]")
 flags.DEFINE_string("sample_dir", "samples", "Directory name to save the image samples [samples]")
+flags.DEFINE_string("noise", "normal", "Distribution of noise, either normal or uniform [normal]")
 flags.DEFINE_boolean("train", False, "True for training, False for testing [False]")
 flags.DEFINE_boolean("crop", False, "True for training, False for testing [False]")
 flags.DEFINE_boolean("visualize", False, "True for visualizing, False for nothing [False]")
@@ -70,11 +71,11 @@ def main(_):
           gf_dim = FLAGS.gf_dim,
           double_update_gen=FLAGS.double_update_gen)
     else:
-        sample_dir="samples/{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
+        sample_dir="samples/{}_bz{}_out{}_in{}_df{}_gf{}_update{}_noise{}".format(
             FLAGS.dataset, FLAGS.batch_size,
             FLAGS.output_height, FLAGS.input_height,
             FLAGS.df_dim, FLAGS.gf_dim,
-            FLAGS.double_update_gen)
+            FLAGS.double_update_gen, FLAGS.noise)
         dcgan = DCGAN(
               sess,
               input_width=FLAGS.input_width,
@@ -92,7 +93,8 @@ def main(_):
               data_dir=FLAGS.data_dir,
               df_dim=FLAGS.df_dim,
               gf_dim = FLAGS.gf_dim,
-              double_update_gen=FLAGS.double_update_gen)
+              double_update_gen=FLAGS.double_update_gen,
+              noise=FLAGS.noise)
     show_all_variables()
 
     if FLAGS.train:

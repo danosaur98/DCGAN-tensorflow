@@ -20,7 +20,7 @@ class DCGAN(object):
          batch_size=64, sample_num = 64, output_height=64, output_width=64,
          y_dim=None, z_dim=100, gf_dim=64, df_dim=64,
          gfc_dim=1024, dfc_dim=1024, c_dim=3, dataset_name='default',
-         input_fname_pattern='*.jpg', checkpoint_dir=None, sample_dir=None, data_dir='./data', double_update_gen = True):
+         input_fname_pattern='*.jpg', checkpoint_dir=None, sample_dir=None, data_dir='./data', double_update_gen = True, noise = "normal"):
     """
 
     Args:
@@ -76,6 +76,8 @@ class DCGAN(object):
     self.input_fname_pattern = input_fname_pattern
     self.checkpoint_dir = checkpoint_dir
     self.data_dir = data_dir
+
+    self.noise = noise
 
     if self.dataset_name == 'mnist':
       self.data_X, self.data_y = self.load_mnist()
@@ -172,7 +174,11 @@ class DCGAN(object):
         [self.z_sum, self.d_sum, self.d_loss_real_sum, self.d_loss_sum])
     self.writer = SummaryWriter("./logs", self.sess.graph)
 
-    sample_z = np.random.uniform(-1, 1, size=(self.sample_num , self.z_dim))
+    if self.noise=="uniform":
+        sample_z = np.random.uniform(-1, 1, size=(self.sample_num , self.z_dim))
+    else:
+        sample_z = np.random.normal(0, 1, size=(self.sample_num , self.z_dim))
+
     
     if config.dataset == 'mnist':
       sample_inputs = self.data_X[0:self.sample_num]
@@ -229,8 +235,12 @@ class DCGAN(object):
           else:
             batch_images = np.array(batch).astype(np.float32)
 
-        batch_z = np.random.uniform(-1, 1, [config.batch_size, self.z_dim]) \
-              .astype(np.float32)
+        if self.noise=="uniform":
+            batch_z = np.random.uniform(-1, 1, [config.batch_size, self.z_dim]) \
+                  .astype(np.float32)
+        else:
+            batch_z = np.random.normal(-1, 1, [config.batch_size, self.z_dim]) \
+                  .astype(np.float32)
 
         if config.dataset == 'mnist':
           # Update D network
@@ -321,11 +331,11 @@ class DCGAN(object):
                     self.inputs: sample_inputs,
                 },
               )
-              sample_dir= "samples/{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
+              sample_dir= "samples/{}_bz{}_out{}_in{}_df{}_gf{}_update{}_noise{}".format(
                 self.dataset_name, self.batch_size,
                 self.output_height, self.input_height,
                 self.df_dim, self.gf_dim,
-                self.double_update_gen
+                self.double_update_gen, self.noise
               )
               if not os.path.exists(sample_dir):
                 os.makedirs(sample_dir)
