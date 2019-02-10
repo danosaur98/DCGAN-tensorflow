@@ -79,6 +79,7 @@ class UnifiedDCGAN(object):
         self.input_width = input_width
         self.output_height = output_height
         self.output_width = output_width
+        self.double_update_gen=double_update_gen
 
         self.y_dim = y_dim
         self.z_dim = z_dim
@@ -105,7 +106,8 @@ class UnifiedDCGAN(object):
         if not os.path.exists(self.sample_dir):
             os.mkdir(self.sample_dir)
         self.data_dir = data_dir
-        self.double_update_gen=double_update_gen
+
+
         self.load_dataset()
         self.build_model()
 
