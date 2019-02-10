@@ -27,8 +27,8 @@
       <file leaf-file-name="model.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="104" column="23" lean-forward="false" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="23" />
+            <state relative-caret-position="349">
+              <caret line="284" column="28" lean-forward="true" selection-start-line="284" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -99,7 +99,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
       <find>mo</find>
       <find>moF</find>
       <find>moFL</find>
@@ -129,6 +128,7 @@
       <find>self.GAN</find>
       <find>load failed</find>
       <find>./data</find>
+      <find>get_next_batch_one</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -470,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="104" column="23" lean-forward="false" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="23" />
+        <state relative-caret-position="349">
+          <caret line="284" column="28" lean-forward="true" selection-start-line="284" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
           <folding />
         </state>
       </provider>
