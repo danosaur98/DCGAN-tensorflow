@@ -85,8 +85,8 @@ def save_images(images, size, image_path):
 
 
 def image_manifold_size(num_images):
-    manifold_h = int(np.floor(np.sqrt(num_images)))
-    manifold_w = int(num_images / manifold_h)
+    manifold_h = int(8) if num_images==32 else int(np.floor(np.sqrt(num_images)))
+    manifold_w = int(4) if num_images==32 else int(num_images / manifold_h)
     assert manifold_h * manifold_w == num_images
     return manifold_h, manifold_w
 
