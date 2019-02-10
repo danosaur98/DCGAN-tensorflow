@@ -105,6 +105,7 @@ class UnifiedDCGAN(object):
         if not os.path.exists(self.sample_dir):
             os.mkdir(self.sample_dir)
         self.data_dir = data_dir
+        self.double_update_gen=double_update_gen
         self.load_dataset()
         self.build_model()
 
@@ -243,7 +244,7 @@ class UnifiedDCGAN(object):
     def get_next_batch_one_epoch(self, num_batches, config):
         """Yields next mini-batch within one epoch.
         """
-        for idx in range(0, num_batches):
+        for idx in xrange(0, num_batches):
             batch_z = np.random.uniform(-1, 1, [config.batch_size, self.z_dim]).astype(np.float32)
 
             if config.dataset == 'mnist':
@@ -396,7 +397,7 @@ class UnifiedDCGAN(object):
 
         inf_data_gen = self.inf_get_next_batch(config)
 
-        for iter_count in range(config.max_iter):
+        for iter_count in xrange(config.max_iter):
             if self.model_type == self.GAN:
                 _d_iters = 1
             else:
@@ -435,8 +436,16 @@ class UnifiedDCGAN(object):
                     feed_dict=sample_feed_dict
                 )
 
-                image_path = os.path.join(self.sample_dir, "train_{:02d}_{:04d}.png".format(epoch, step))
-                save_images(samples, image_manifold_size(samples.shape[0]), image_path)
+                sample_dir = "./samples/{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
+                    self.dataset_name, self.batch_size,
+                    self.output_height, self.input_height,
+                    self.df_dim, self.gf_dim,
+                    self.double_update_gen
+                )
+                if not os.path.exists(sample_dir):
+                    os.makedirs(sample_dir)
+                save_images(samples, image_manifold_size(samples.shape[0]), './{}/train_{:02d}_{:04d}.png'.format(sample_dir,#config.sample_dir
+                                                           epoch, iter_count))
                 print("[Sample] d_loss: %.8f, g_loss: %.8f" % (d_loss, g_loss))
 
                 # Save the model.
