@@ -13,6 +13,9 @@ flags.DEFINE_string("model_type", "GAN", "Type of GAN model to use. [GAN]")
 flags.DEFINE_integer("epoch", 10, "Epoch to train [25]")
 flags.DEFINE_float("learning_rate", 0.0002, "Learning rate of for adam [0.0002]")
 flags.DEFINE_float("beta1", 0.5, "Momentum term of adam [0.5]")
+flags.DEFINE_float("beta2", 0.9, "Momentum term of Adam. [0.9]")
+flags.DEFINE_integer("max_iter", 10000, "Maximum number of training iterations. [10000]")
+flags.DEFINE_integer("d_iter", 5, "Num. batches used for training D model in one iteration. [5]")
 flags.DEFINE_float("train_size", np.inf, "The size of train images [np.inf]")
 flags.DEFINE_integer("batch_size", 32, "The size of batch images [64]")
 flags.DEFINE_integer("input_height", 256, "The size of image to use (will be center cropped). [108]")
@@ -79,24 +82,25 @@ def main(_):
             FLAGS.df_dim, FLAGS.gf_dim,
             FLAGS.double_update_gen)
         dcgan = UnifiedDCGAN(
-              sess,
-              model_type=FLAGS.model_type,
-              input_width=FLAGS.input_width,
-              input_height=FLAGS.input_height,
-              output_width=FLAGS.output_width,
-              output_height=FLAGS.output_height,
-              batch_size=FLAGS.batch_size,
-              sample_num=FLAGS.batch_size,
-              z_dim=FLAGS.generate_test_images,
-              dataset_name=FLAGS.dataset,
-              input_fname_pattern=FLAGS.input_fname_pattern,
-              crop=FLAGS.crop,
-              checkpoint_dir=FLAGS.checkpoint_dir,
-              sample_dir= sample_dir,#FLAGS.sample_dir,
-              data_dir=FLAGS.data_dir,
-              df_dim=FLAGS.df_dim,
-              gf_dim = FLAGS.gf_dim,
-              double_update_gen=FLAGS.double_update_gen)
+            sess,
+            FLAGS.model_type,
+            input_width=FLAGS.input_width,
+            input_height=FLAGS.input_height,
+            output_width=FLAGS.output_width,
+            output_height=FLAGS.output_height,
+            batch_size=FLAGS.batch_size,
+            sample_num=FLAGS.batch_size,
+            d_iter=FLAGS.d_iter,
+            dataset_name=FLAGS.dataset,
+            input_fname_pattern=FLAGS.input_fname_pattern,
+            crop=FLAGS.crop,
+            checkpoint_dir=FLAGS.checkpoint_dir,
+            sample_dir=sample_dir,
+            data_dir=FLAGS.data_dir,
+            df_dim=FLAGS.df_dim,
+            gf_dim=FLAGS.gf_dim,
+            double_update_gen=FLAGS.double_update_gen)
+
     show_all_variables()
 
     if FLAGS.train:
