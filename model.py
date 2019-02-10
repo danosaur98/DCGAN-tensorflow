@@ -102,9 +102,6 @@ class UnifiedDCGAN(object):
         if not os.path.exists(self.checkpoint_dir):
             os.makedirs(self.checkpoint_dir)
 
-        self.sample_dir = os.path.join(sample_dir, self.model_dir)
-        if not os.path.exists(self.sample_dir):
-            os.mkdir(self.sample_dir)
         self.data_dir = data_dir
 
 
@@ -119,7 +116,7 @@ class UnifiedDCGAN(object):
             self.data_X, self.data_y = load_mnist(self.y_dim)
             self.c_dim = self.data_X[0].shape[-1]
         else:
-            data_path = os.path.join(self.data_dir, self.dataset_name, self.input_fname_pattern)
+            self.data = os.path.join(self.data_dir, self.dataset_name, self.input_fname_pattern)
             imreadImg = imread(self.data[0])
 
             if len(imreadImg.shape) >= 3:
