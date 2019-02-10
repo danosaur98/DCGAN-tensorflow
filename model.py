@@ -112,18 +112,19 @@ class UnifiedDCGAN(object):
         """
         Load data and check the channel number `c_dim`.
         """
-        if self.dataset_name == 'mnist':
-            self.data_X, self.data_y = load_mnist(self.y_dim)
-            self.c_dim = self.data_X[0].shape[-1]
+        data_path = os.path.join(self.data_dir, self.dataset_name, self.input_fname_pattern)
+        self.data = glob(data_path)
+        if len(self.data) == 0:
+            raise Exception("[!] No data found in '" + data_path + "'")
+        np.random.shuffle(self.data)
+        imreadImg = imread(self.data[0])
+        if len(imreadImg.shape) >= 3:  # check if image is a non-grayscale image by checking channel number
+            self.c_dim = imread(self.data[0]).shape[-1]
         else:
-            self.data = os.path.join(self.data_dir, self.dataset_name, self.input_fname_pattern)
-            imreadImg = imread(self.data[0])
-
-            if len(imreadImg.shape) >= 3:
-                # check if image is a non-grayscale image by checking channel number
-                self.c_dim = imread(self.data[0]).shape[-1]
-            else:
-                self.c_dim = 1
+            self.c_dim = 1
+        # self.c_dim = 1
+        if len(self.data) < self.batch_size:
+            raise Exception("[!] Entire dataset size is less than the configured batch_size")
 
         self.grayscale = (self.c_dim == 1)
 
