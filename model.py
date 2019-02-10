@@ -410,7 +410,7 @@ class UnifiedDCGAN(object):
             counter += _d_iters
             d_counter += _d_iters
             for _ in range(_d_iters):
-                epoch, step, d_train_feed_dict, g_train_feed_dict = inf_data_gen.next()
+                epoch, step, d_train_feed_dict, g_train_feed_dict = next(inf_data_gen)
                 self.sess.run(d_optim, feed_dict=d_train_feed_dict)
                 if d_clip is not None:
                     self.sess.run(d_clip)
