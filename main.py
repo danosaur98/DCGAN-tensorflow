@@ -2,12 +2,14 @@ import os
 import scipy.misc
 import numpy as np
 
-from model import DCGAN
-from utils import pp, visualize, to_json, show_all_variables
+from model import UnifiedDCGAN
+from utils import show_all_variables
 
 import tensorflow as tf
-
+import pprint
 flags = tf.app.flags
+
+flags.DEFINE_string("model_type", "GAN", "Type of GAN model to use. [GAN]")
 flags.DEFINE_integer("epoch", 10, "Epoch to train [25]")
 flags.DEFINE_float("learning_rate", 0.0002, "Learning rate of for adam [0.0002]")
 flags.DEFINE_float("beta1", 0.5, "Momentum term of adam [0.5]")
@@ -30,6 +32,7 @@ flags.DEFINE_boolean("visualize", False, "True for visualizing, False for nothin
 flags.DEFINE_boolean("double_update_gen", True, "True if generator should update twice for each discriminator update [True")
 flags.DEFINE_integer("generate_test_images", 100, "Number of images to generate during test. [100]")
 FLAGS = flags.FLAGS
+pp = pprint.PrettyPrinter()
 
 def main(_):
   pp.pprint(flags.FLAGS.__flags)
@@ -50,7 +53,7 @@ def main(_):
 
   with tf.Session(config=run_config) as sess:
     if FLAGS.dataset == 'mnist':
-      dcgan = DCGAN(
+      dcgan = UnifiedDCGAN(
           sess,
           input_width=FLAGS.input_width,
           input_height=FLAGS.input_height,
@@ -70,13 +73,14 @@ def main(_):
           gf_dim = FLAGS.gf_dim,
           double_update_gen=FLAGS.double_update_gen)
     else:
-        sample_dir="./samples/{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
-            FLAGS.dataset, FLAGS.batch_size,
+        sample_dir="./samples/{}_{}_bz{}_out{}_in{}_df{}_gf{}_update{}".format(
+            FLAGS.dataset, FLAGS.moFLAGS.batch_size,
             FLAGS.output_height, FLAGS.input_height,
             FLAGS.df_dim, FLAGS.gf_dim,
             FLAGS.double_update_gen)
-        dcgan = DCGAN(
+        dcgan = UnifiedDCGAN(
               sess,
+              model_type=FLAGS.model_type,
               input_width=FLAGS.input_width,
               input_height=FLAGS.input_height,
               output_width=FLAGS.output_width,
