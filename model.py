@@ -281,7 +281,7 @@ class UnifiedDCGAN(object):
         if config.dataset == 'mnist':
             num_batches = min(len(self.data_X), config.train_size) // config.batch_size
         else:
-            self.data = glob(os.path.join("./data", config.dataset, self.input_fname_pattern))
+            self.data = glob(os.path.join(self.data_dir, config.dataset, self.input_fname_pattern))
             num_batches = min(len(self.data), config.train_size) // config.batch_size
 
         epoch = 0

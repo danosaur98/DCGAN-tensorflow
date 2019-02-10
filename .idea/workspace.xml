@@ -27,8 +27,8 @@
       <file leaf-file-name="model.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="419" column="0" lean-forward="true" selection-start-line="419" selection-start-column="0" selection-end-line="419" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="104" column="23" lean-forward="false" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -99,9 +99,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>p</find>
-      <find>print</find>
-      <find>uniform</find>
       <find>print</find>
       <find>mo</find>
       <find>moF</find>
@@ -129,6 +126,9 @@
       <find>imread</find>
       <find>xrange</find>
       <find>next(</find>
+      <find>self.GAN</find>
+      <find>load failed</find>
+      <find>./data</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -309,12 +309,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/model.py</url>
-          <line>260</line>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
@@ -476,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="419" column="0" lean-forward="true" selection-start-line="419" selection-start-column="0" selection-end-line="419" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="104" column="23" lean-forward="false" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="23" />
           <folding />
         </state>
       </provider>
