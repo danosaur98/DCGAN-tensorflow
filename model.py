@@ -239,7 +239,7 @@ class DCGAN(object):
             batch_z = np.random.uniform(-1, 1, [config.batch_size, self.z_dim]) \
                   .astype(np.float32)
         else:
-            batch_z = np.random.normal(-1, 1, [config.batch_size, self.z_dim]) \
+            batch_z = np.random.normal(0, 1, [config.batch_size, self.z_dim]) \
                   .astype(np.float32)
 
         if config.dataset == 'mnist':
