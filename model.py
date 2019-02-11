@@ -98,9 +98,7 @@ class UnifiedDCGAN(object):
         self.dataset_name = dataset_name
         self.input_fname_pattern = input_fname_pattern
 
-        self.checkpoint_dir = os.path.join(checkpoint_dir, self.model_dir)
-        if not os.path.exists(self.checkpoint_dir):
-            os.makedirs(self.checkpoint_dir)
+        self.checkpoint_dir = checkpoint_dir
 
         self.data_dir = data_dir
 
