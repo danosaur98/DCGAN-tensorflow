@@ -615,10 +615,16 @@ class UnifiedDCGAN(object):
             self.double_update_gen
         )
 
-    def save(self, step):
-        model_name = self.model_type + ".model"
-        model_path = os.path.join(self.checkpoint_dir, model_name)
-        self.saver.save(self.sess, model_path, global_step=step)
+    def save(self, checkpoint_dir, step):
+      model_name = self.model_type + ".model"
+      checkpoint_dir = os.path.join(checkpoint_dir, self.model_dir)
+
+      if not os.path.exists(checkpoint_dir):
+        os.makedirs(checkpoint_dir)
+
+      self.saver.save(self.sess,
+                      os.path.join(checkpoint_dir, model_name),
+                      global_step=step)
 
     def load(self, checkpoint_dir):
         import re
