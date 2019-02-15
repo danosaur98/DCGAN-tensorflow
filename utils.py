@@ -176,10 +176,13 @@ def visualize(sess, dcgan, config, option):
     samples = sess.run(dcgan.sampler, feed_dict={dcgan.z: z_sample})
     save_images(samples, [image_frame_dim, image_frame_dim], './samples/test_%s.png' % strftime("%Y-%m-%d-%H-%M-%S", gmtime()))
   elif option == 1:
-    values = np.arange(0, 1, 1./config.batch_size)
+    values = np.arange(0, 1, 1./config.sample_num)
     for idx in xrange(dcgan.z_dim):
       print(" [*] %d" % idx)
-      z_sample = np.random.uniform(-1, 1, size=(config.batch_size , dcgan.z_dim))
+      if config.noise == "uniform":
+        z_sample = np.random.uniform(-1, 1, size=(config.sample_num, dcgan.z_dim))
+      else:
+        z_sample = np.random.normal(0, 1, size=(config.sample_num, dcgan.z_dim))
       for kdx, z in enumerate(z_sample):
         z[idx] = values[kdx]
 
