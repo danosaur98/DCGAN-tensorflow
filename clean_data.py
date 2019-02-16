@@ -31,7 +31,7 @@ for subdir, dirs, files in os.walk(root):
         # print(str(i) + source)
         try:
             image = scipy.misc.imread(source)
-            # image = scipy.misc.imresize(image, (512, 512))
+            image = scipy.misc.imresize(image, (512, 512))
 
             if len(image.shape) == 3 and image.shape[-1] > 3:
                 print("RGBY:", image.shape)
