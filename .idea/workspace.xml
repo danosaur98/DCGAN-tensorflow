@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ba0f6c6-1396-491c-8297-3d4f904e01e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/results/l1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/l2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/l3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/l4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/l5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/l6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/l7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/l8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/landscape_mosaic.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/landscape_mosaic.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,17 +44,12 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="389">
-                <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+              <first_editor relative-caret-position="357">
+                <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/landscape_mosaic.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -453,8 +440,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="389">
-            <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+          <first_editor relative-caret-position="357">
+            <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
           </first_editor>
           <second_editor />
         </state>

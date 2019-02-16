@@ -56,7 +56,13 @@ Landscape GAN:
 ![landscape5](results/l5.png) ![landscape6](results/l6.png)
 ![landscape7](results/l7.png) ![landscape7](results/l8.png)
 
-![landscape_mosaic](results/landscape_mosaic.png)
+![landscape_mosaic1](results/landscape_mosaic1.png)
+
+![landscape_mosaic2](results/landscape_mosaic2.png)
+
+![landscape_mosaic3](results/landscape_mosaic3.png)
+
+![landscape_mosaic4](results/landscape_mosaic4.png)
 
 Portrait GAN:
 
@@ -68,7 +74,13 @@ Portrait GAN:
 
 
 
-![portrait_mosaic](results/portrait_mosaic.png)
+![portrait_mosaic](results/portrait_mosaic1.png)
+
+![portrait_mosaic1](results/portrait_mosaic2.png)
+
+![portrait_mosaic2](results/portrait_mosaic3.png)
+
+![portrait_mosaic3](results/portrait_mosaic4.png)
 
 
 More results coming!
