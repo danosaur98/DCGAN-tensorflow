@@ -51,12 +51,12 @@ python main.py --train --dataset=landscape  --data_dir=images_256/ --input_heigh
 ## Results
 Landscape GAN:
 
-![landscape1](results/test_arange_98_square.png) ![landscape2](results/test_arange_5.png)
-![landscape3](results/test_arange_21.png) ![landscape4](results/test_arange_31.png)
-![landscape5](results/test_arange_43.png) ![landscape6](results/test_arange_55.png)
-![landscape7](results/test_arange_90.png)
+![landscape1](results/l1.png) ![landscape2](results/l2.png)
+![landscape3](results/l3.png) ![landscape4](results/l4.png)
+![landscape5](results/l5.png) ![landscape6](results/l6.png)
+![landscape7](results/l7.png) ![landscape7](results/l8.png)
 
-![landscape_mosaic](results/test_arange_97.png)
+![landscape_mosaic](results/landscape_mosaic.png)
 
 Portrait GAN:
 
