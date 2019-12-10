@@ -49,6 +49,10 @@ python main.py --train --dataset=landscape  --data_dir=images_256/ --input_heigh
 ```
 
 ## Results
+Album Art GAN:
+
+![albumart](results/album_art.png) 
+
 Landscape GAN:
 
 ![landscape1](results/l1.png) ![landscape2](results/l2.png)
@@ -95,3 +99,4 @@ Daniel Zhou
 * [GANGoh](https://github.com/rkjones4/GANGogh) for data / image resizing
 * [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN) for some hyperparameters
 * [Duke + Data Science](https://plus.datascience.duke.edu/) for hosting art competition and letting me use GPUs
+* [archive](https://archive.org/details/audio-covers) for audio covers
